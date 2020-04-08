@@ -1,0 +1,52 @@
+main {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 50px;
+    margin-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    text-align: center;
+  }
+
+p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-size: x-large;
+}
+
+.articleName {
+    background-color: rgb(97, 202, 188);
+}
+
+.articleTitle {
+    background-color: rgb(236, 236, 188);
+}
+
+#list {
+    background-color:white;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgb(6, 14, 14);
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+
+h2 {
+    font-size: xx-large;
+}
+
+
